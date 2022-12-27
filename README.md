@@ -6,3 +6,4 @@ Listagem estatica de produtos ecologicos
 
 - fazer clone do projeto
 - abrir no navegador o arquivo: moveis_ecologicos.html
+- ou acessar https://raw.githack.com/Edinaldo96/moveis-ecologicos/master/moveis_ecologicos.html
